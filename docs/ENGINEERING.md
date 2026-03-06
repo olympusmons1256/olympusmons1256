@@ -2,9 +2,9 @@
 
 ## Pull Requests & Workflow
 - **Branching Strategy**: Format new branches as `[Project Management ID]-[FeatureName]-dev`.
-  - Example: `ODY2-108-PaymentStripe-dev`
+  - Example: `ODY2108-PaymentStripe-dev`
 - **Commit Methodology**: Use imperative mood with Project Management ID prefix. 
-  - Example: `ODY2-108: Fix- payment stripe issue fix`
+  - Example: `ODY2108: Fix- payment stripe issue fix`
 - **Descriptions**: Provide a clear "why" behind the change in the PR body.
 
 ## CLI Execution
@@ -21,8 +21,3 @@
 - **Standards**: High-level standards 
 - **Project Wikis**: Reserved strictly for issue tracking and specific dev-logs.
 - **Docs-as-Code**: Technical specifications live in the `/docs` folder of each repo.
-
-## Spatial Computing & 2x22 Standards
-- **Performance**: Frame-rate consistency (60/72/90Hz) is critical for user comfort.
-- **Physics**: Standardizing on Cannon.js for deterministic spatial interactions.
-- **Optimization**: Use Draco compression for GLTF/GLB assets.
