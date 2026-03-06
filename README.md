@@ -9,7 +9,7 @@ I apply these principles to both personal projects and team environments to ensu
 
 - Branching: All work is performed in feature branches using [projectManagementId]-[featureName]-dev (e.g., NGP123-spatialComms-dev).
 - Commits: Use imperative mood with Project Management ID. Example: `ODY2-108: Fix- payment stripe issue fix`.
-- Reviews: Mandatory Pull Requests using the `gh` CLI and project-specific templates.
+- Reviews: Mandatory Pull Requests using the `gh` CLI and project-specific templates. [Pull Request Template](docs/PULL_REQUEST_TEMPLATE.md)
 - **Documentation**: All public APIs must be documented; READMEs must include current setup instructions.
 
 ## Current Focus
@@ -23,4 +23,4 @@ I apply these principles to both personal projects and team environments to ensu
 - [Partner Onboarding](./onboarding/PARTNERS.md): Framework for external collaboration.
 
 ---
-Contact: [LinkedIn](https://www.linkedin.com/in/reid-santabarbara-9a70364b/
+Contact: [LinkedIn](https://www.linkedin.com/in/reid-santabarbara-9a70364b/)

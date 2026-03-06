@@ -1,0 +1,10 @@
+# Onboarding for Partners
+
+## Getting Started
+1. Review the [Engineering Guide](../docs/ENGINEERING.md).
+2. Ensure Two-Factor Authentication (2FA) is enabled on your GitHub account.
+3. Clone the project repository assigned to your team.
+4. Follow the setup instructions in the project-level README.
+
+## Support
+- For technical blockers: Use the GitHub Discussions tab in the project repository.
