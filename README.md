@@ -13,7 +13,7 @@ I apply these principles to both personal projects and team environments to ensu
 - **Documentation**: All public APIs must be documented; READMEs must include current setup instructions.
 
 ## Current Focus
-- Spatial Computing: Researching high-performance rendering, 3D interaction patterns, and spatial anchoring.
+- Spatial Computing: Researching high-performance rendering and corresponding delivery methods.
 - System Architecture: Designing decoupled, scalable services that bridge the gap between cloud and edge.
 - Tooling: Refining project templates to improve developer experience.
 
